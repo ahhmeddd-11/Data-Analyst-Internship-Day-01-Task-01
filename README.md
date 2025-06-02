@@ -1,7 +1,7 @@
 # Task 1 - Data Analyst Internship (Elevate Labs)
 
 ## Dataset
-- Name: Medical Appointment No Shows
+- Name: Medical Appointment
 - File: medical-dataset.csv
 
 ## Tools Used
