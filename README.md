@@ -16,4 +16,4 @@
    - Saved the cleaned data to a new CSV file
 
 ## Output
-   - cleaned_data/cleaned_medical_appointments.csv
+   - cleaned_medical_appointments.csv
