@@ -1,19 +1,28 @@
-# Task 1 - Data Analyst Internship (Elevate Labs)
+# Task 1 - Data Cleaning and Preprocessing
 
-## Dataset
-- Name: Medical Appointment
-- File: medical-dataset.csv
+## Overview
+
+This task involves cleaning and preparing raw data for analysis. It includes steps like handling missing values, removing duplicates, standardizing formats, and correcting data types.
 
 ## Tools Used
-- Python
-- pandas
 
-## What I Did
-   - Removed duplicate rows
-   - Cleaned column names
-   - Converted date columns to datetime
-   - Removed rows with negative age
-   - Saved the cleaned data to a new CSV file
+- Excel
 
-## Output
-   - cleaned_medical_appointments.csv
+## Objectives
+
+- Handle missing and duplicate values
+- Standardize inconsistent formats
+- Ensure correct data types and column naming
+
+## Approach
+
+The dataset was cleaned using either Excel or Python. Null values were addressed appropriately, duplicates were removed, and formats (dates, text, etc.) were standardized for consistency.
+
+## Deliverables
+
+- Cleaned dataset
+- Summary of cleaning steps
+
+## Author
+
+Syed Ahmed Ali
